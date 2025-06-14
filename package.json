@@ -47,7 +47,7 @@
   },
   "private": true,
   "description": "",
-  "version": "2019.02",
+  "version": "2019.03",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
